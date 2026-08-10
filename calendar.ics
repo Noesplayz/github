@@ -4,4 +4,13 @@ PRODID:-//Mijn WebCal Portaal//NL
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Mijn Gecombineerde Agenda
 X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VEVENT
+UID:evt_6a7a23dc23486@webcal
+DTSTAMP:20260810T211748Z
+DTSTART;TZID=Europe/Amsterdam:20261220T143000
+DTEND;TZID=Europe/Amsterdam:20260820T150000
+SUMMARY:auto ophalen
+DESCRIPTION:Hier gaan we de BMW i4 ophalen
+LOCATION:Hedin Automotive Breda
+END:VEVENT
 END:VCALENDAR
